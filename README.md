@@ -11,16 +11,18 @@ L’obiettivo della demo/workshop è:
     <li>illustrare come analizzare l’acquisizione del dispositivo con il tool opensource <b>iLeapp</b>
 </ol>
 
-Il processo di jailbreak utilizzando checkra1n sarà illustrato attraverso slides.
+Il processo di jailbreak utilizzando checkra1n <b>sarà illustrato attraverso slides</b>.
+<br>
 La parte di acquisizione sarà una <b>demo live</b>
 
-<b>Per poter eseguire in autonomia la parte di acquisizione attivamente è necessario utilizzare un computer con sistema operativo MacOSX ed effettuare prima del workshop il processo di jailbreak</b>, seguendo le istruzioni disponibili ai link:
+<b>Per poter seguire live la parte di acquisizione è necessario utilizzare un computer con sistema operativo MacOSX ed effettuare, <b>prima del workshop</b>, il processo di jailbreak</b>, seguendo le istruzioni disponibili ai link:
 
 1.	https://checkra.in/
 2.	https://doubleblak.com/blogPosts.php?id=12
 
 <b>#DISCLAIMER#</b>
 
+<br>
 Il secondo link contiene anche le istruzioni per la configurazione dell'ambiente di lavoro dello script iOS BFU Triage, che potete scaricare qui
 
 https://github.com/RealityNet/ios_bfu_triage/blob/master/ios_bfu_triage.sh
