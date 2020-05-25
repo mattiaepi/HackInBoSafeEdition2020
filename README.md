@@ -23,10 +23,11 @@ La parte di acquisizione sarà una <b>demo live</b>
 <b>
 #DISCLAIMER#
 <br>
-Utilizzare un dispositivo di test e non il proprio dispositivo personale</b>
+Utilizzare un dispositivo di test e non il proprio dispositivo personale
 <br>
 #FINE DISCLAIMER#
 </b>
+<br>
 
 Il secondo link contiene anche le istruzioni per la configurazione dell'ambiente di lavoro dello script iOS BFU Triage, che potete scaricare qui
 
