@@ -52,9 +52,8 @@ Per poter seguire la demo live in pratica, sono necessari alcuni prerequisiti:
     <br>
     Per poter seguire la demo "live" è necessario unzippare il file ZIP e avere il file TAR (ovvero, <b>non</b> fare untar)
 
-In linea di principio il tool iLEAPP funziona su Windows/Mac/Linux, quindi questa parte può essere eseguita su diverse piattaforme.
-Durante la demo sarà utilizzato un Mac, ma se scaricati e configurati opportunamente i tool possono essere utilizzati su tutte le piattaforme. 
-
+Durante la demo sarà utilizzato un Mac ma il tool iLEAPP, se opportunamente configurato, funziona anche su Windows e Linux, quindi questa parte può essere eseguita su diverse piattaforme.
+<br>
 Per chi volesse seguire unicamente la parte di analisi finale, all'URL è disponibile anche il report finale generato da iLEAPP, in formato HTML (compatibile con tutto)
 
 
