@@ -44,14 +44,11 @@ Per poter seguire la demo live in pratica, sono necessari alcuni prerequisiti:
 2.	Scaricare https://github.com/abrignoni/iLEAPP
 3.	Verificare la disponibilità nel proprio sistema di tutte le dipendenze Python necessarie per lo script
     <br>
-    <br>
     Dovrebbe essere sufficiente eseguire <b>pip install -r requirements.txt</b> dalla cartella dove avete estratto iLEAPP 
 4.	Scaricare l'acquisizione di test che sarà utilizzata durante la demo da http://bit.do/HackInBoSafeEdition2020
     <B>#ATTENZIONE#</b>
     <br>
-    <br>
     L'acquisizione è un file ZIP, contenente un file TAR.
-    <br>
     <br>
     Per poter seguire la demo "live" è necessario unzippare il file ZIP e avere il file TAR (ovvero, <b>non</b> fare untar)
 
