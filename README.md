@@ -37,8 +37,10 @@ Per poter seguire la demo live in pratica, sono necessari alcuni prerequisiti:
     Dovrebbe essere sufficiente eseguire pip install -r requirements.txt dalla cartella dove avete estratto iLEAPP 
 4.	Scaricare l'acquisizione di test che sarà utilizzata durante la demo da http://bit.do/HackInBoSafeEdition2020
     <B>#ATTENZIONE#</b>
+    <br>
     L'acquisizione è un file ZIP, contenente un file TAR.
-    Per poter seguire la demo "live" è necessario unzippare il file ZIP e avere il file TAR (ovvero, <b>non</b> fare untar)a disposizione sul proprio computer 
+    <br>
+    Per poter seguire la demo "live" è necessario unzippare il file ZIP e avere il file TAR (ovvero, <b>non</b> fare untar)
 
 In linea di principio il tool iLEAPP funziona su Windows/Mac/Linux, quindi questa parte può essere eseguita su diverse piattaforme.
 Durante la demo sarà utilizzato un Mac, ma se scaricati e configurati opportunamente i tool possono essere utilizzati su tutte le piattaforme. 
