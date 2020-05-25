@@ -27,7 +27,7 @@ https://github.com/RealityNet/ios_bfu_triage/blob/master/ios_bfu_triage.sh
 
 <b>Utilizzare il jailbreak solo ed esclusivamente su dispositivi di test!</b>
 
-La parte di analisi sarà una <b>demo live<b>.
+La parte di analisi sarà una <b>demo live</b>.
 
 Per poter seguire la demo live in pratica, sono necessari alcuni prerequisiti:
 
