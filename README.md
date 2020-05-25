@@ -20,9 +20,14 @@ La parte di acquisizione sarà una <b>demo live</b>
 1.	https://checkra.in/
 2.	https://doubleblak.com/blogPosts.php?id=12
 
-<b>#DISCLAIMER#</b>
-
+<b>
+#DISCLAIMER#
 <br>
+Utilizzare un dispositivo di test e non il proprio dispositivo personale</b>
+<br>
+#FINE DISCLAIMER#
+</b>
+
 Il secondo link contiene anche le istruzioni per la configurazione dell'ambiente di lavoro dello script iOS BFU Triage, che potete scaricare qui
 
 https://github.com/RealityNet/ios_bfu_triage/blob/master/ios_bfu_triage.sh
