@@ -2,7 +2,7 @@
 
 # iOS Forensics Lab
 
-Benvenuti alla pagina di preparazione per il lab "live" su "iOS Forensics" di HackInBoSafeEdition 2020 che si terrà <b>Sabato 30 Maggio 2020</b>
+Benvenuti alla pagina di preparazione per il lab "live" su "<b>iOS Forensics</b>" di HackInBoSafeEdition 2020 che si terrà <b>Sabato 30 Maggio 2020</b>
 
 L’obiettivo della demo/workshop è:
 
