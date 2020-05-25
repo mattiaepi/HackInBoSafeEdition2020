@@ -8,7 +8,7 @@ L’obiettivo della demo/workshop è:
 
 <ol>
 <li>illustrare come effettuare una acquisizione full file system di un dispositivo iPhone utilizzando il jailbreak <b>checkra1n</b> e lo script <b>iOS BFU Triage</b>
-<li>illustrare come analizzare l’acquisizione del dispositivo con il tool opensource iLeapp 
+    <li>illustrare come analizzare l’acquisizione del dispositivo con il tool opensource <b>iLeapp</b>
 </ol>
 
 Il processo di jailbreak utilizzando checkra1n sarà illustrato attraverso slides.
