@@ -28,6 +28,7 @@ Utilizzare un dispositivo di test e non il proprio dispositivo personale
 #FINE DISCLAIMER#
 </b>
 <br>
+<br>
 
 Il secondo link contiene anche le istruzioni per la configurazione dell'ambiente di lavoro dello script iOS BFU Triage, che potete scaricare qui
 
