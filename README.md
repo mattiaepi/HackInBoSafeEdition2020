@@ -34,7 +34,7 @@ Il secondo link contiene anche le istruzioni per la configurazione dell'ambiente
 
 https://github.com/RealityNet/ios_bfu_triage/blob/master/ios_bfu_triage.sh
 
-<b>Utilizzare il jailbreak solo ed esclusivamente su dispositivi di test!</b>
+<br>
 
 La parte di analisi sarà una <b>demo live</b>.
 
